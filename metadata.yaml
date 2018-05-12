@@ -1,0 +1,32 @@
+_repo: Il-libro-della-cucina-del-sec.-XIV_33954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Zambrini, Francesco
+    birthdate: 1810
+    deathdate: 1887
+    gutenberg_agent_id: '36663'
+    url: http://www.gutenberg.org/2009/agents/36663
+description: ''
+gutenberg_bookshelf:
+- IT Cucina
+- Cookery
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33954'
+  lccn: a53004642
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cookbooks'
+- !lcsh 'Cooking -- Early works to 1800'
+- !lcsh 'Cooking, Italian'
+title: Il libro della cucina del sec. XIV, testo di lingua non mai fin qui stampato
+url: http://www.gutenberg.org/ebooks/33954
